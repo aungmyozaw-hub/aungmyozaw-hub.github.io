@@ -15,7 +15,7 @@ If you already have a GitHub profile:
 
 Cool! Your site should be live at `https://{username}.github.io`
 
-Here's my **Landing Page** - [Aung Myo Zaw](https://aungmyozaw.github.io)
+Here's my **Landing Page** - [Aung Myo Zaw](https://aungmyozaw-hub.github.io/)
 
 ### Setting up a Custom Domain for your github pages
 
